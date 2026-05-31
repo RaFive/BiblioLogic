@@ -1,0 +1,6 @@
+{
+  "name": "BiblioLogic",
+  "description": "A cozy 2.5D isometric puzzle game about arranging book blocks inside a cardboard box.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
